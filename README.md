@@ -1,4 +1,4 @@
-# WUAWrapper
+# WUWrapper
 ©2017 Eugene Odeluga  
 This is a Windows Update API wrapper for Windows PowerShell  
 It wraps some of the functions of the WU API contained in the Windows WUApiLib.dll library (not included) into a PS Cmdlet module called WUWrapper  
